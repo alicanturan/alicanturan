@@ -21,7 +21,7 @@ I am actively working on various projects to enhance my knowledge and experience
 
 ## Contact
 
-Feel free to reach out to me for any collaboration or inquiries. You can contact me via [email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com).
+Feel free to reach out to me for any collaboration or inquiries. 
 
 Thank you for visiting my GitHub profile!
 
